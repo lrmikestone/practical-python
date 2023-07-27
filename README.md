@@ -147,3 +147,7 @@ Bug reports are appreciated and may be filed through the
 [issue tracker](https://github.com/dabeaz-course/practical-python/issues).
 Pull requests are not accepted except by invitation. Please file an issue first.
 
+### Fork
+
+This is a version of the course that is explicitly for me to use for learning Python. Use the original if you're actually wanting to do something with it.
+
